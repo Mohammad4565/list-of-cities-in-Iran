@@ -5,7 +5,6 @@ CREATE TABLE IF NOT EXISTS provinces(
   ,tel_prefix VARCHAR(3) NOT NULL
 );
 INSERT INTO provinces(id,name,slug,tel_prefix) VALUES (1,'آذربایجان شرقی','آذربایجان-شرقی','041');
-INSERT INTO provinces(id,name,slug,tel_prefix) VALUES (2,'آذربایجان غربی','آذربایجان-غربی','044');
 INSERT INTO provinces(id,name,slug,tel_prefix) VALUES (3,'اردبیل','اردبیل','045');
 INSERT INTO provinces(id,name,slug,tel_prefix) VALUES (4,'اصفهان','اصفهان','031');
 INSERT INTO provinces(id,name,slug,tel_prefix) VALUES (5,'البرز','البرز','026');
